@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GENMED</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancle">Cancel</string>
+    <string name="login">login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="broker">MEDICINE BROKER</string>
+    <string name="customer">CUSTOMER</string>
+    <string name="genmed">GENMED</string>
+    <string name="help">Need Help?</string>
+    <string name="text">Large Text</string>
+    <string name="text9">Small Text</string>
+    <string name="returnpass">Large Text</string>
+    <string name="search">Search</string>
+    <string name="m1">your med</string>
+    <string name="m2">med price</string>
+    <string name="m3">gen med</string>
+    <string name="m4">gen price</string>
+    <string name="m5">Large Text</string>
+    <string name="m6">Large Text</string>
+    <string name="m7">Large Text</string>
+    <string name="m8">Large Text</string>
+    <string name="qw">b2</string>
+    <string name="adfc">b1</string>
+    <string name="asd">Large Text</string>
+    <string name="adf">Enter availability</string>
+    <string name="asdd">UPLOAD</string>
+    <string name="arfsgebg">Enter location</string>
+    <string name="sadfgafsgasfgs">Enter shop</string>
+    <string name="sfgsfasfsfffasfsf">Enter generic medicine</string>
+    <string name="azs">ENTER MEDICAL STORE DETAILS</string>
+    <string name="hello">hello</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_map">Map</string>
+
+</resources>
